@@ -1,8 +1,6 @@
-import {FaTwitter} from 'react-icons/Fa';
+import {FaTwitter,FaYoutube,FaLinkedinIn} from 'react-icons/Fa';
 import {FiInstagram} from 'react-icons/Fi';
 import { ImFacebook} from 'react-icons/Im';
-import {FaLinkedinIn} from 'react-icons/Fa';
-import {FaYoutube} from 'react-icons/Fa';
 import {GiChefToque} from 'react-icons/Gi';
 import './Footer.css'
 

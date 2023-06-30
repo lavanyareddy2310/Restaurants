@@ -1,5 +1,4 @@
-import {BsFillPersonFill} from 'react-icons/Bs';
-import {BsFillCartFill} from 'react-icons/Bs';
+import {BsFillPersonFill,BsFillCartFill} from 'react-icons/Bs';
 import {HiMenu} from 'react-icons/Hi';
 import './Navbar.css'
 import { useState } from 'react';
